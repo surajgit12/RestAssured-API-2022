@@ -1,0 +1,7 @@
+com\qa\test\rest\assured\api\TC007_Authentication_API.class
+com\qa\test\rest\assured\api\TC003_Get_Request_Headers.class
+com\qa\test\rest\assured\api\TC005_Validate_JSON_Response.class
+com\qa\test\rest\assured\api\TC004_Get_Request_Print_all_Header.class
+com\qa\test\rest\assured\api\TC006_GetRequest_Extract_Values_FromEach_Node.class
+com\qa\test\rest\assured\api\TC001_Get_Request.class
+com\qa\test\rest\assured\api\TC002_Post_Request.class
